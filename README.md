@@ -4,4 +4,4 @@
 
 <img width="455" alt="Screenshot 2024-04-22 at 10 32 43 PM" src="https://github.com/dcod3i/Employee-Administration-Tool/assets/13497770/e40cd8c4-0f8e-48d2-9f38-3fc0ed22bdf2">
 
-<img width="455" alt="Screenshot 2024-04-20 at 11 44 44 AM" src="https://github.com/dcod3i/Employee-Administration-Tool/assets/13497770/57982cf3-215c-48a3-90c2-7e955fd34818">
+<img width="452" alt="Screenshot 2024-04-24 at 11 54 42 AM" src="https://github.com/dcod3i/Employee-Administration-Tool/assets/13497770/e722fa65-effa-452d-9599-e014209dd4a6">
